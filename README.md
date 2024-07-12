@@ -1,6 +1,4 @@
-# ntalk
-
-Este é um projeto inspirado no exemplo utilizado como didática no livro: Aplicações web real-time com Node.js (https://casadocodigo.refersion.com/l/630.1389) da editora Casa do Código (http://www.casadocodigo.com.br)
+# ntalk - Synapse
 
 ## Requisitos do projeto
 
@@ -19,8 +17,6 @@ Este é um projeto inspirado no exemplo utilizado como didática no livro: Aplic
 - Socket.IO: Módulo para comunicação real-time;
 - Node Redis: Cliente Redis para Node.js;
 - Mocha: Framework para testes automatizados;
-- SuperTest: Módulo para emular requisições que será utilizado no teste de integração;
-- Nginx: Servidor Web de alta performance para arquivos estáticos;
 
 ## Estrutura de projeto
 
